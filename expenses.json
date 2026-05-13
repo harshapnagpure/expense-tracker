@@ -1,0 +1,12 @@
+[
+    {
+        "name": "coffee",
+        "amount": 50.0,
+        "category": "food"
+    },
+    {
+        "name": "tea",
+        "amount": 20.0,
+        "category": "travel"
+    }
+]
